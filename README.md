@@ -54,8 +54,6 @@ Este repositorio presenta la solución de una prueba técnica realizada en clase
 ## Autoría  
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
-- **Autor:** Luisa Castaño Vanegas
-- **GitHub:** [LuisaCastano40](https://github.com/LuisaCastano40)  
-- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/luisacastanovanegas/) 
+- **Autor:** Jonathan Jimenez
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
